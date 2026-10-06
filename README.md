@@ -1,1 +1,1 @@
-# cma
+pip install requests pandas numpy ta ccxt yfinance
